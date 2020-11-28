@@ -191,7 +191,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://github.com/Xcommander/resume/blob/master/static/image/timg22.jpg?raw=true');
+    background-image:url('../image/sky.jpg');
     background-size: 120%;
     background-position:center;
     border-radius:50%;
@@ -206,7 +206,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
 
     width: 1050px;
-    height: 1550px;
+    height: 1900x;
     background-color: white;
 
 }
